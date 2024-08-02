@@ -21,3 +21,5 @@ CSDN[@玦尘、](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="miahemu's GitHub Stats"> 
+
+![亮色](https://raw.githubusercontent.com/miahemu/miahemu/output/github-contribution-grid-snake.svg)
