@@ -13,6 +13,8 @@
 
 <img height="120px" src="https://github-readme-stats.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="miahemu's GitHub Stats"><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miahemu&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
+## Things I code with
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
