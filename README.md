@@ -6,12 +6,12 @@
 
 🍀又尝为不甚称职之画家，仅能绘抽象之物；偶抚琴弦，然室友或更喜听蝉之鸣叫；至于球场之上，亦可见余之影，虽常遭封盖。
 
-✍若有志趣相投者，愿共商技术之道，或诉日常琐碎之事，皆可私信吾也。
+✍若有志趣相投者，愿共商技术之道，或诉日常琐碎之事，皆可私信吾也。CSDN[@玦尘、](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
 
-**联系我:**
+![亮色](https://raw.githubusercontent.com/miahemu/miahemu/output/github-contribution-grid-snake.svg)
 
-CSDN[@玦尘、](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
 
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="miahemu's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miahemu&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
@@ -20,6 +20,3 @@ CSDN[@玦尘、](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
 ![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="miahemu's GitHub Stats"> 
-
-![亮色](https://raw.githubusercontent.com/miahemu/miahemu/output/github-contribution-grid-snake.svg)
