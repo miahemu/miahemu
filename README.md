@@ -6,7 +6,7 @@
 
 🍀又尝为不甚称职之画家，仅能绘抽象之物；偶抚琴弦，然室友或更喜听蝉之鸣叫；至于球场之上，亦可见余之影，虽常遭封盖。
 
-✍若有志趣相投者，愿共商技术之道，或诉日常琐碎之事，皆可私信吾也。CSDN[@玦尘、](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
+✍若有志趣相投者，愿共商技术之道，或诉日常琐碎之事，皆可私信吾也。CSDN[@玦尘❀](https://blog.csdn.net/weixin_74199893?spm=1010.2135.3001.5343)
 
 ![亮色](https://raw.githubusercontent.com/miahemu/miahemu/output/github-contribution-grid-snake.svg)
 
