@@ -1,13 +1,11 @@
 <h2 align="center">👋久违矣，予乃游于编码之海，孜孜以求，谨细不倦之士也！</h2>
 
 <div align="center">
-  
   <div align="center">
-    <a href="[https://blog.csdn.net/weixin_74199893?spm=1000.2115.3001.5343](https://blog.csdn.net/weixin_74199893?spm=1000.2115.3001.5343)">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;System.out.println(%22Hello+World!%22);Code+is+like+poetry+✨" alt="Typing SVG">
+     <a href="https://git.io/typing-svg">
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%98%98%EF%B8%8FHello+World;Welcome+to+my+GitHub;Code+is+like+poetry+%E2%9C%A8" alt="Typing SVG" /></a>
     </a>
   </div>
-
 </div>
 
 🌘余年方廿二，肄业于长安某学府，习电气工程及其自动化。
