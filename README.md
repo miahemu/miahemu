@@ -19,8 +19,8 @@
 🔥个人网址：[miahemu.github.io](https://miahemu.github.io/)
 
 
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="miahemu's GitHub Stats"><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miahemu&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<a href="https://github-stats-extended.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&include_all_commits=true&theme=nightowl">
+  <img height="180px" src="https://github-stats-extended.vercel.app/api?username=miahemu&hide_title=true&show_icons=true&include_all_commits=true&theme=nightowl" />
+</a>
 
-## Things I code with
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Badge" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" /><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge" />
 
